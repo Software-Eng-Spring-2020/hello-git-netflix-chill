@@ -1,6 +1,2 @@
 # Default ignored files
 /workspace.xml
-../.idea/*
-../.settings/*
-../HelloGit.iml
-../target/*
